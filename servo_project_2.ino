@@ -1,5 +1,7 @@
 #include <Servo.h>
 
+// 專案名稱: 伺服馬達-02
+
 Servo myservo;
 const int buzzer = 8;
 const int ledPins[] = {5, 6, 7, 10};
